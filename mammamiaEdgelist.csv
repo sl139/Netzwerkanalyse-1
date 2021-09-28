@@ -1,0 +1,12 @@
+from,to,weight,relationship
+So,D,3,2
+So,Sk,3,1
+So,H,2,2
+So,Sa,2,2
+So,B,2,2
+D,H,2,3
+D,B,2,3
+D,Sa,3,1
+D,T,3,3
+D,R,3,3
+T,R,2,3
